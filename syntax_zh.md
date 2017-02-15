@@ -35,7 +35,7 @@ Markdown: 语法(syntax)
 
 **注意：**这份文件是用 Markdown 写的，你可以[看看它的原始档][src] 。
 
-  [src]: https://github.com/osokay/markdown-syntax-zh/edit/master/syntax_zh.md
+  [src]: https://raw.githubusercontent.com/romotc/markdown-zh/master/syntax_zh.md
 
 * * *
 
