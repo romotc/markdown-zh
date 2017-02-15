@@ -1,1 +1,1 @@
-syntax.md
+syntax_zh.md
